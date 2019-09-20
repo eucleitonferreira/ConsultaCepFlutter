@@ -1,6 +1,6 @@
 # Consumindo API Via CEP
 
-A new Flutter project.
+Busca Cep Correios.
 
 ## Informações do Projeto
 
